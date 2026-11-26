@@ -46,16 +46,17 @@
     "@types/pg": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "@vitest/coverage-v8": "^4.1.9",
     "dotenv": "^17.2.3",
     "drizzle-kit": "latest",
     "eslint": "9.39.1",
     "eslint-config-next": "latest",
+    "eslint-formatter-compact": "^9.0.1",
     "prettier": "latest",
     "prettier-plugin-organize-imports": "latest",
     "tailwindcss": "latest",
     "tsx": "latest",
     "typescript": "latest",
-    "vitest": "^4.1.9",
-    "@vitest/coverage-v8": "^4.1.9"
+    "vitest": "^4.1.9"
   }
 }
